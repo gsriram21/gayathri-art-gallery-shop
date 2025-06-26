@@ -3,6 +3,11 @@
 ## Project info
 
 This is a portfolio website showcasing my colored pencil drawings.
+<img width="1455" alt="Screenshot 2025-06-25 at 7 57 35 PM" src="https://github.com/user-attachments/assets/543b7249-0a0a-46c6-aebb-3e7135359393" />
+<img width="1489" alt="Screenshot 2025-06-25 at 7 57 45 PM" src="https://github.com/user-attachments/assets/d49ab6d0-022c-453e-9a6f-de1561669001" />
+<img width="1483" alt="Screenshot 2025-06-25 at 7 57 59 PM" src="https://github.com/user-attachments/assets/23f904d3-2c5a-4ab7-add3-c22c016fa346" />
+
+
 
 ## How can I edit this code?
 
