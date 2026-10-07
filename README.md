@@ -1,6 +1,4 @@
-# Welcome to your Lovable project
-
-## Project info
+# Project info
 
 This is a portfolio website showcasing my colored pencil drawings.
 <img width="1455" alt="Screenshot 2025-06-25 at 7 57 35 PM" src="https://github.com/user-attachments/assets/543b7249-0a0a-46c6-aebb-3e7135359393" />
